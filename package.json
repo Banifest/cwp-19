@@ -1,0 +1,9 @@
+{
+  "name": "cwp-19",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.16.2",
+    "joi": "^13.0.2"
+  }
+}
